@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usama
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Cross-Platform Mobile Developement
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me https://www.linkedin.com/in/usama-alam-sher-4a305b155/
 
